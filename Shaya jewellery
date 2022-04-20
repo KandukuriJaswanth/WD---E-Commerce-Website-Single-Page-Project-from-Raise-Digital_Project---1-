@@ -1,0 +1,75 @@
+## HTML code for shaya 
+
+<!Doctype html>
+<html>
+<title>HTML</title>
+<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.15.4/css/fontawesome.min.css">
+<link rel="stylesheet" type="text/css" href="style.css">
+<style>
+    p{
+        background-color: green;
+   color: gold;
+   font-size: 15px;
+   font-family: Verdana;
+    }
+    p span{
+        font-size: 25px;
+        color: blue ;
+        font-weight: bold;
+     }
+    
+    
+    p  a{
+        text-decoration:none ;
+        color: orange;
+    }
+     p a:hover{
+         color: blue;
+     }
+     .container{
+        display:flex ;
+     }
+        h2{
+            color:blue;
+    font-size: 25px;
+    font-family: verdana;
+    font-weight: lighter;
+     
+        }
+</style>
+
+ 
+    <!--HTML_list-->
+<div class="credit_list">
+    <h1>Welcome</h1>
+    <h2>silver   Items list</h2><link rel="https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwi6trvPy5X1AhVXMSsKHR5BB8cYABABGgJzZg&ae=2&ohost=www.google.com&cid=CAESQeD2dV2dybyOTLZaqN3bepRS1nn1t8emX6qSVl610nsW24aPckHGxrDG7Lnts_uRWbsIZgRqH8rHEy1ab6jG0NHW&sig=AOD64_06Daf-f8jp3_bQ6_mU5T15ZQUm1A&q&adurl&ved=2ahUKEwjoyLLPy5X1AhVoSmwGHZ8HDmQQ0Qx6BAgEEAE">
+    <li type="1">
+        
+        <li>Loud Laugh Necklace </li>
+        <li>Antique Stambh Pole Necklace</li>
+        <li>Rise Above Fear Ring</li>
+        <li>Rise Above Stigma Ring </li>
+        <li>Add Wishlist
+            Antique Happy Wrinkles Bracelet </li>
+        <li>Chasing My Childhood Dreams Bracelet </li>
+        <li> Rise Above Fear Earrings</li>
+        <li>Dhol Motif Single Anklet</li>
+        
+    </li>
+    <br>
+  <h2> ordered List</h2>
+  <ol type="1">
+    <li>Loud Laugh Necklace </li><img src="https://images.cltstatic.com/media/product/350/AL00183-SS0000-owning-my-loud-laugh-necklace-in--silver-prd-1-model.jpg">
+    <li>Rise Above Stigma Ring </li><img src="https://images.cltstatic.com/media/product/350/AR00140-SS0000-rise-above-stigma-ring-in--silver-prd-1-model.jpg">
+        <li> Rise Above Fear Earrings</li><img src="https://images.cltstatic.com/media/product/350/AE00521-SS0000-rise-above-fear-earrings-prd-1-model.jpg">
+        <li>Dhol Motif Single Anklet</li><img src="https://images.cltstatic.com/media/product/350/AI00035-SS0000-dhol-motif-single-anklet-prd-1-model.jpg">
+  </ol>
+  <li>bill</li>
+  <li><i class="fas fa-receipt"></i></li>
+  <li><i class="fa fa-cc-visa" aria-hidden="true"></i></i></li>
+  <li><i class="fa fa-paypal" aria-hidden="true"></i></li>
+  <li><i class="fas fa-money-bill"></i></li>
+
+</div>
+</body>
+</html>
